@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I work with Java, Angular and sometimes Go and Python
+
+- 🌱 I’m currently learning about AWS and IoT (I'm building some Alexa applications)
+
 <!--
 **msantosfelipe/msantosfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
