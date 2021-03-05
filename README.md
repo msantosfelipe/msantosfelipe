@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I work with Java and Angular but sometimes I play with NodeJS, Go and Python
+- 🔭 I work with Go and Java but sometimes I play with NodeJS, Python and Angular
 
 - 🌱 I’m currently learning about AWS and IoT (I'm building some Alexa applications)
 
