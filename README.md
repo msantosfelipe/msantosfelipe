@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I work with Go and Java but sometimes I play with NodeJS, Python and Angular
+- 🔭 Most of my experience is working with Kotlin, Go and Java, but sometimes I play with NodeJS, Python and Angular
 
-- 🌱 I’m currently learning about AWS and IoT (I'm building some Alexa applications)
+- 🌱 I’m currently interested in Blockchain and AI technologies
+
+- 📫 How to reach me: https://www.linkedin.com/in/fmaiasantos/
 
 <!--
 **msantosfelipe/msantosfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
